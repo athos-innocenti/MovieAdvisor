@@ -160,8 +160,7 @@ This project was born from a simple, real-world problem:
 
 A Tuesday night, no idea what to watch, and too many options.
 
-Movie Advisor aims to bridge the gap between: - inspiration (AI) -
-availability (platforms) - decision (user)
+Movie Advisor aims to bridge the gap between: inspiration (AI), availability (platforms) and decision (user)
 
 ------------------------------------------------------------------------
 
