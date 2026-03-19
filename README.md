@@ -1,12 +1,8 @@
-# 🎬 Movie Advisor --- AI-powered Movie Recommendation System
+# 🎬 Movie Advisor AI-powered Movie Recommendation System
 
-Film Advisor is a Python-based intelligent movie recommendation system
-that combines **Generative AI (Gemini)** with **structured data from
-TMDB (The Movie Database)** to deliver contextual, explainable, and
-actionable film suggestions.
+Film Advisor is a Python-based intelligent movie recommendation system that combines **Generative AI (Gemini)** with **structured data from TMDB (The Movie Database)** to deliver contextual, explainable, and actionable film suggestions.
 
-The goal is simple: \> Turn a vague idea into a curated list of movies
---- and tell you exactly where to watch them.
+The goal is simple: turn a vague idea into a curated list of movies and tell you exactly where to watch them.
 
 ------------------------------------------------------------------------
 
@@ -14,10 +10,10 @@ The goal is simple: \> Turn a vague idea into a curated list of movies
 
 ### 🧠 Natural Language Understanding
 
-Users can describe what they want to watch using **free-form text**: -
-moods (*"something intense and psychological"*) - constraints (*"movies
-from the 2000s"*) - mixed requirements (*"3 highly rated thrillers that
-keep me hooked"*)
+Users can describe what they want to watch using **free-form text**:
+- moods (*"something intense and psychological"*)
+- constraints (*"movies from the 2000s"*)
+- mixed requirements (*"3 highly rated thrillers that keep me hooked"*)
 
 The system interprets the request semantically, not just through keyword
 matching.
@@ -164,7 +160,7 @@ This project was born from a simple, real-world problem:
 
 A Tuesday night, no idea what to watch, and too many options.
 
-Film Advisor aims to bridge the gap between: - inspiration (AI) -
+Movie Advisor aims to bridge the gap between: - inspiration (AI) -
 availability (platforms) - decision (user)
 
 ------------------------------------------------------------------------
