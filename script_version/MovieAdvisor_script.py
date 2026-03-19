@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Film Advisor
+Movie Advisor
 ============
 Descrivi in italiano (o inglese) il film che vuoi vedere e ricevi
 suggerimenti personalizzati con motivazioni e piattaforme streaming.
@@ -366,7 +366,7 @@ def main():
         sys.exit(0)
 
     # Step 2 — TMDB arricchisce ogni titolo con metadati e piattaforme
-    print(f"  ⏳ Recupero metadati e piattaforme per {len(film_list)} film…")
+    print(f"  ⏳ Recupero metadati e piattaforme da TMDB…")
     film_list = [enrich_with_tmdb(f) for f in film_list]
 
     # Step 3 — Ordinamento finale sui dati TMDB (precisi)
